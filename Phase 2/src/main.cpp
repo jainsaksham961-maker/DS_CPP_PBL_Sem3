@@ -6,7 +6,7 @@
 #include <string>
 #include <limits>
 #include <vector>
-
+ 
 int promptInt(const std::string& label, const std::string& example, int min_val = 0) {
     int value;
     while (true) {
