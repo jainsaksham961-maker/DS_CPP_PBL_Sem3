@@ -5,7 +5,7 @@
 #include <unordered_map>
 #include <string>
 #include <algorithm>
-
+ 
 struct Drone {
     std::string drone_id;
     double max_payload_kg;
