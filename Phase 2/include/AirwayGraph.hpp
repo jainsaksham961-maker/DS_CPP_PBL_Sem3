@@ -6,7 +6,7 @@
 #include <unordered_map>
 #include <string>
 
-struct WaypointNode {
+struct WaypointNode { 
     int id;
     std::string label;
     Vector3D coords;
