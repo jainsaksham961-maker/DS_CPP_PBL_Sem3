@@ -4,7 +4,7 @@
 #include <cmath>
 #include <fstream>
 #include <algorithm>
-
+ 
 void AirwayGraph::addWaypoint(int id, const std::string& label, const Vector3D& coords, bool is_depot) {
     nodes[id] = {id, label, coords, is_depot};
 }
