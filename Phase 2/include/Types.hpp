@@ -4,7 +4,7 @@
 #include <cmath>
 #include <string>
 
-// Terminal ANSI Color Codes for Phase-II Visual Graph
+// Terminal ANSI Color Codes for Phase-II Visual Graph 
 #define COLOR_RESET   "\033[0m"
 #define COLOR_RED     "\033[1;31m"
 #define COLOR_GREEN   "\033[1;32m"
