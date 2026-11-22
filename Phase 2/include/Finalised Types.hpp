@@ -7,7 +7,7 @@
 #include <cstdint>
 #include <algorithm>
 
-// ANSI Color Constants
+// ANSI COLOR Constants
 const std::string COLOR_RESET  = "\033[0m";
 const std::string COLOR_RED    = "\033[1;31m";
 const std::string COLOR_GREEN  = "\033[1;32m";
